@@ -17,14 +17,20 @@ Simple todo list powered by smart contracts. Understand how blockchain works and
 ```bash
 # Clone 
 $ https://github.com/kenneth-liang/Ethereum-Todo-List-.git
+```
 
+```bash
 # Install dependencies 
 $ npm install -g truffle@5.0.2
 $ npm install
+```
 
+```bash
 # Migrate 
 truffle migrate --reset
+```
 
+```bash
 # Run the app
 $ npm run dev
 ```
