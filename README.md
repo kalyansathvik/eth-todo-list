@@ -14,13 +14,13 @@ Simple todo list powered by smart contracts. Understand how blockchain works and
 * [Node.js](https://nodejs.org/en/)
 
 ## Deployment 
-```bash
 # Clone 
+```bash
 $ https://github.com/kenneth-liang/Ethereum-Todo-List-.git
 ```
 
+# Install dependencies
 ```bash
-# Install dependencies 
 $ npm install -g truffle@5.0.2
 $ npm install
 ```
