@@ -22,7 +22,7 @@ $ https://github.com/kalyansathvik/eth-todo-list.git
 # Install dependencies
 ```bash
 $ npm install -g truffle@5.0.2
-'''
+```
 
 ```bash
 $ npm install
